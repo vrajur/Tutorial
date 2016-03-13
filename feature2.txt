@@ -1,1 +1,2 @@
-Old potentially buggy code for feature2
+Updated code for feature2
+Some more code 
